@@ -2,7 +2,7 @@
 
 A modern, responsive Pokédex application built with React that allows users to browse, search, and view detailed information about Pokémon using the [PokéAPI](https://pokeapi.co/).
 
-![Pokédex App Screenshot]([https://raw.githubusercontent.com/username/react-pokedex/main/screenshot.png](https://raw.githubusercontent.com/benrigaud/react-pokedex/refs/heads/main/screenshot.png)
+![Pokédex App Screenshot](https://raw.githubusercontent.com/benrigaud/react-pokedex/refs/heads/main/screenshot.png)
 
 ## 🚀 Features
 
